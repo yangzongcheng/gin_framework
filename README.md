@@ -1,7 +1,7 @@
 #基于gin封装的简易框架
 - init
     ```shell
-      #执行命令
+      #初始化go mod
       go mod init gin_framework
       
       #将依赖下载到vendor目录
