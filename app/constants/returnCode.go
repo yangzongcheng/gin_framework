@@ -15,7 +15,7 @@ const(
 	ParamError=202
 )
 
-//状态码对应提示
+/**	@var 状态码对应提示*/
 var ErrorMsg = map[int]string{
 	Ok:"操作成功",
 	Error:"操作失败",
